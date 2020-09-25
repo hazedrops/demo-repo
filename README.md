@@ -1,2 +1,2 @@
 # demo-repo
-demo repository
+This is the testing demo repository
